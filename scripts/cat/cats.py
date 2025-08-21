@@ -633,7 +633,7 @@ class Cat:
 
         if not self.outside and self.dead_for < 2:
             Cat.dead_cats.append(self)
-            if self.history and self.history.murder and "is_murderer" in self.history.murder and len(self.history.murder["is_murderer"]) > 2:
+            if self.history and self.history.murder and "is_murderer" in self.history.murder and len(self.history.murder["is_murderer"]) > 1:
                 self.df = True
                 game.clan.add_to_darkforest(self)
             elif self.faith <= -9:
