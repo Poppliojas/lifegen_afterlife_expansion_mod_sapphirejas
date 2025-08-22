@@ -45498,5 +45498,32 @@
             "See, for a while, my job was to take care of myself and carry kits, and now my job is to get better so I can return to my usual tasks.",
             "Things have fallen behind enough already without my help."
         ]
+    },
+
+        "sc_sapphirejas_1": {
+        "y_c": {
+            "dead": [
+                "df",
+                "max_you_deadfor_1"
+            ]         
+        },
+        "t_c": {
+            "dead": [
+                "df"
+            ],
+            "status":[
+                "not_kitten"                
+            ]
+        },
+        "intro": [
+           "Hello there. Umm, you are new. Welcome to the Dark Forest I guess... You have died, y_c",
+           "[you feel your heart shatter at the revelation that you are dead and was sent to the Dark Forest rather than StarClan.]",
+           "[You flatten your ears, raise your hackles and hiss at the Dark Forest cat.]",
+           "[The Dark Forest cat touches your spine with {PRONOUN/t_c/poss} tail.]",
+           "You did things wrong in your Clan and ended up here when you died.",
+           "You can now get yourself useful by using your fighting skills against the other Dark Forest cats here.",
+           "[You close your eyes and take deep breaths, slowly accepting your fate.]"
+        ]
     }
+
 }
