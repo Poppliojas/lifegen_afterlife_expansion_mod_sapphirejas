@@ -45500,7 +45500,7 @@
         ]
     },
 
-        "sc_sapphirejas_1": {
+        "df_sapphirejas_1": {
         "y_c": {
             "dead": [
                 "df",
@@ -45516,7 +45516,7 @@
             ]
         },
         "intro": [
-           "Hello there. Umm, you are new. Welcome to the Dark Forest I guess... You have died, y_c",
+           "Hello there. Umm, you are new. Welcome to the Dark Forest I guess... You have died, y_c.",
            "[you feel your heart shatter at the revelation that you are dead and was sent to the Dark Forest rather than StarClan.]",
            "[You flatten your ears, raise your hackles and hiss at the Dark Forest cat.]",
            "[The Dark Forest cat touches your spine with {PRONOUN/t_c/poss} tail.]",
@@ -45524,6 +45524,61 @@
            "You can now get yourself useful by using your fighting skills against the other Dark Forest cats here.",
            "[You close your eyes and take deep breaths, slowly accepting your fate.]"
         ]
-    }
+    },
 
+        "df_sapphirejas_2": {
+        "y_c": {
+            "dead": [
+                "df",
+                "max_you_deadfor_1"
+            ]
+        },
+        "t_c": {
+            "dead": [
+                "df"
+            ],
+            "status": [
+                "not_kitten"
+
+            ]
+        },
+        "intro": [
+            "[You wake up quickly in a forest devoid of any light, and the reeking smell of the mud in your nose.]",
+            "[Your raise your hackles and flattened your ears, wondering what you are doing in the Place of No Stars.]",
+            "[You glance at your paws, only to shriek with horror. Your pelt is covered in a layer of muck. You are dead, and worse of all, you are sent to the Dark Forest instead of the peaceful fields of StarClan!]",
+            "[A Dark Forest cat approaches you, {PRONOUN/t_c/poss} mouth twisted into a sneer.]",
+            "Welcome to the Dark Forest, mouse-heart. Your actions have led you here after your death. Now, you walk amongst us, to rot here.",
+            "[You ask for {PRONOUN/t_c} name]",
+            "Call me t_c. I shall leave you alone behind to rot in this forest.",
+            "[t_c walks away, laughing and sneering as you sat staring at {PRONOUN/t_c/object}",
+            "[What did you do to deserve ending up in the Dark Forest after your death?!]"
+        ]
+
+        },
+        "df_sapphirejas_3": {
+        "y_c": {
+            "dead": [
+                "df",
+                "max_you_deadfor_15"
+            ]
+        },
+        "t_c": {
+            "dead": [
+                "df",
+                "min_they_deadfor_50"
+            ],
+            "status": [
+                "not_kitten"
+
+            ]
+        },
+        "intro": [
+            "[You stalk through the thick mud of the Dark Forest, looking for somecat to talk to. You are bored.]",
+            "[Your heart leaps as another Dark Forest appear from the shadows.]",
+            "Hello y_c, you're still new to the Dark Forest. Would you like to fight me? I would like to see you use your skills you are learning here after your death.",
+            "[y_c, with nothing to do in this place silently agree to battle t_c. You unsheath your claws and leap straight at {PRONOUN/t_c/object}.]",
+            "[However, t_c is faster than you and dodges your move. {PRONOUN/t_c/subject} has obviously more Dark Forest fighting experience, having been here for much longer than you.]"
+        ]
+
+        }
 }
