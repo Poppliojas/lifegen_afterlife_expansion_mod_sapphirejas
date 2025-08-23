@@ -45544,13 +45544,13 @@
         },
         "intro": [
             "[You wake up quickly in a forest devoid of any light, and the reeking smell of the mud in your nose.]",
-            "[Your raise your hackles and flattened your ears, wondering what you are doing in the Place of No Stars.]",
+            "[Your raise your hackles and flatten your ears, wondering what you are doing in the Place of No Stars.]",
             "[You glance at your paws, only to shriek with horror. Your pelt is covered in a layer of muck. You are dead, and worse of all, you are sent to the Dark Forest instead of the peaceful fields of StarClan!]",
             "[A Dark Forest cat approaches you, {PRONOUN/t_c/poss} mouth twisted into a sneer.]",
             "Welcome to the Dark Forest, mouse-heart. Your actions have led you here after your death. Now, you walk amongst us, to rot here.",
-            "[You ask for {PRONOUN/t_c} name]",
+            "[You ask for {PRONOUN/t_c/poss} name]",
             "Call me t_c. I shall leave you alone behind to rot in this forest.",
-            "[t_c walks away, laughing and sneering as you sat staring at {PRONOUN/t_c/object}",
+            "[t_c walks away, laughing and sneering as you sat staring at {PRONOUN/t_c/object}.",
             "[What did you do to deserve ending up in the Dark Forest after your death?!]"
         ]
 
@@ -45577,7 +45577,7 @@
             "[Your heart leaps as another Dark Forest appear from the shadows.]",
             "Hello y_c, you're still new to the Dark Forest. Would you like to fight me? I would like to see you use your skills you are learning here after your death.",
             "[y_c, with nothing to do in this place silently agree to battle t_c. You unsheath your claws and leap straight at {PRONOUN/t_c/object}.]",
-            "[However, t_c is faster than you and dodges your move. {PRONOUN/t_c/subject} has obviously more Dark Forest fighting experience, having been here for much longer than you.]"
+            "[However, t_c is faster than you and dodges your move. {PRONOUN/t_c/subject/CAP} has obviously more Dark Forest fighting experience, having been here for much longer than you.]"
         ]
 
         }
