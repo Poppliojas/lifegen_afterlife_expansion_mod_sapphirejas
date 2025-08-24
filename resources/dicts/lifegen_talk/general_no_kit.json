@@ -45591,7 +45591,7 @@
         "t_c": {
             "dead": [
                 "sc",
-                "min_they_deadfor_15"
+                "min_they_deadfor_1"
             ],
             "status": [
                 "not_kitten"
