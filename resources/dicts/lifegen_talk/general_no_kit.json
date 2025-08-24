@@ -45580,5 +45580,95 @@
             "[However, t_c is faster than you and dodges your move. {PRONOUN/t_c/subject/CAP} has obviously more Dark Forest fighting experience, having been here for much longer than you.]"
         ]
 
+        },
+        "sc_sapphirejas_1": {
+        "y_c": {
+            "dead": [
+                "sc",
+                "max_you_deadfor_100"
+            ]
+        },
+        "t_c": {
+            "dead": [
+                "sc",
+                "min_they_deadfor_15"
+            ],
+            "status": [
+                "not_kitten"
+            ]
+        },
+        "relationship": [
+            "min_platonic_60"
+        ],
+        "intro": [
+            "Hello y_c. Welcome to StarClan.",
+            "[t_c is smiling warmly at you, though there was an anxious look about {PRONOUN/t_c/object}. Though it is great to see t_c again. It's been many moons since y_c have seen {PRONOUN/t_c/poss].",
+            "[You ask the StarClan cat if this was a dream.]",
+            "[t_c suddenly looks at you with an anxious expression.]",
+            "I'm really sorry y_c, but you have died today. I'm here to guide you into StarClan.",
+            "[a purr escapes t_c's throat.]",
+            "[A thorn pierces your stomach. You are dead, and you have so much more you have to do for c_n. Tears fall out of your eyes.]",
+            "It's okay y_c. You are safe with us now. And you get to meet everyone that you lost while you were alive.",
+            "[You stop crying, and purr back at {PRONOUN/t_c/object}. You embrace your lost loved one, and together, you and t_c walk into the distance to show off StarClan's hunting grounds. ]"
+        ]
+
+        },
+        "sc_sapphirejas_2": {
+        "y_c": {
+            "dead": [
+                "sc",
+                "max_you_deadfor_100"
+            ],
+            "status": [
+                "not_senior"
+            ]
+        },
+        "t_c": {
+            "dead": [
+                "sc"
+            ],
+            "status": [
+                "not_kitten"
+            ]
+        },
+        "relationship": [
+            "min_platonic_60"
+        ],
+        "intro": [
+            "[You open your eyes, and you gasp at the sight of StarClan's hunting grounds. It was so beautiful!]",
+            "[But that also means that... You glanced at your paws to see if your suspicions were true.]",
+            "[Your heart sinks when you see that your paws are covered in starlight. You try your best to not cry as wait for a StarClan cat to appear.]",
+            "[It was none other than t_c! Your lost loved one. {PRONOUN/t_c/subject} looked even more beautiful in death.]",
+            "Oh, y_c! I'm here to guide you into StarClan! But I wasn't expecting you so soon. What happened?",
+            "[You explain to t_c how you died. There were tears in {PRONOUN/t_c/poss} eyes.]",
+            "Oh, I'm so sorry y_c. But at least you are with us now.",
+            "[There was a small smile in t_c's eyes.]",
+            "Please come with me. There are lots of cats waiting to see you, and there is so much to see in StarClan!",
+            "[You follow your StarClan guide toward where lots of cats are waiting to see you.]"
+
+
+        ]
+
+        },
+        "sc_sapphirejas_3": {
+        "y_c": {
+            "dead": [
+                "sc",
+                "max_you_deadfor_100"
+            ]
+        },
+        "t_c": {
+            "dead": [
+                "sc"
+            ],
+            "status": [
+                "not_kitten"
+            ]
+        },
+        "intro": [
+            "Hi y_c! Welcome to StarClan! There's still so much to see, even after your death. Would you like me to show you my favorite spot?",
+            "[You agree with t_c. It would be fun to go to place that you haven't been yet in your tour of StarClan."
+        ]
+
         }
 }
