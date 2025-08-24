@@ -45585,25 +45585,28 @@
         "y_c": {
             "dead": [
                 "sc",
-                "max_you_deadfor_100"
+                "max_you_deadfor_1"
             ]
         },
         "t_c": {
             "dead": [
                 "sc",
-                "min_they_deadfor_1"
+                "min_they_deadfor_15"
             ],
             "status": [
                 "not_kitten"
             ]
         },
+        "relationship": [
+            "min_platonic_60"
+        ],
         "intro": [
             "Hello y_c. Welcome to StarClan.",
-            "[t_c is smiling warmly at you, though there was an anxious look about {PRONOUN/t_c/object}. Though it is great to see t_c again. It's been many moons since y_c have seen {PRONOUN/t_c/poss}.",
+            "[t_c is smiling warmly at you, though there was an anxious look about {PRONOUN/t_c/object}. Though it is great to see t_c again. It's been many moons since y_c have seen {PRONOUN/t_c/object}.",
             "[You ask the StarClan cat if this was a dream.]",
             "[t_c suddenly looks at you with an anxious expression.]",
             "I'm really sorry y_c, but you have died today. I'm here to guide you into StarClan.",
-            "[a purr escapes t_c's throat.]",
+            "[A purr escapes t_c's throat.]",
             "[A thorn pierces your stomach. You are dead, and you have so much more you have to do for c_n. Tears fall out of your eyes.]",
             "It's okay y_c. You are safe with us now. And you get to meet everyone that you lost while you were alive.",
             "[You stop crying, and purr back at {PRONOUN/t_c/object}. You embrace your lost loved one, and together, you and t_c walk into the distance to see StarClan's hunting grounds for the first time. ]"
@@ -45614,7 +45617,7 @@
         "y_c": {
             "dead": [
                 "sc",
-                "max_you_deadfor_100"
+                "max_you_deadfor_1"
             ],
             "status": [
                 "not_senior"
@@ -45627,11 +45630,14 @@
             "status": [
                 "not_kitten"
             ]
+        
         },
-
+        "relationship": [
+            "min_platonic_60"
+        ],
         "intro": [
             "[You open your eyes, and you gasp at the sight of StarClan's hunting grounds. It is so beautiful!]",
-            "[But that also means that... You glanced at your paws to see if your suspicions were true.]",
+            "[But that also means that... You glance at your paws to see if your suspicions were true.]",
             "[Your heart sinks when you see that your paws are covered in starlight. You try your best to not cry as wait for a StarClan cat to appear.]",
             "[It was none other than t_c! Your lost loved one. {PRONOUN/t_c/subject/CAP} looked even more beautiful in death.]",
             "Oh, y_c! I'm here to guide you into StarClan! But I wasn't expecting you so soon. What happened?",
@@ -45647,7 +45653,7 @@
         "y_c": {
             "dead": [
                 "sc",
-                "max_you_deadfor_100"
+                "max_you_deadfor_10"
             ]
         },
         "t_c": {
@@ -45660,7 +45666,7 @@
         },
         "intro": [
             "Hi y_c! Welcome to StarClan! There's still so much to see, even after your death. Would you like me to show you my favorite spot?",
-            "[You agree with t_c. It would be fun to go to place that you haven't been yet in your tour of StarClan."
+            "[You agree with t_c. It would be fun to go to a place that you haven't been yet in your tour of StarClan."
         ]
 
         }
