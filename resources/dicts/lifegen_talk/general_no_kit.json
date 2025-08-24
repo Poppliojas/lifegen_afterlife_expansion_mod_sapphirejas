@@ -45597,9 +45597,6 @@
                 "not_kitten"
             ]
         },
-        "relationship": [
-            "min_platonic_10"
-        ],
         "intro": [
             "Hello y_c. Welcome to StarClan.",
             "[t_c is smiling warmly at you, though there was an anxious look about {PRONOUN/t_c/object}. Though it is great to see t_c again. It's been many moons since y_c have seen {PRONOUN/t_c/poss}.",
@@ -45631,9 +45628,7 @@
                 "not_kitten"
             ]
         },
-        "relationship": [
-            "min_platonic_10"
-        ],
+
         "intro": [
             "[You open your eyes, and you gasp at the sight of StarClan's hunting grounds. It is so beautiful!]",
             "[But that also means that... You glanced at your paws to see if your suspicions were true.]",
@@ -45645,8 +45640,6 @@
             "[There was a small smile in t_c's eyes.]",
             "Please come with me. There are lots of cats waiting to see you, and there is so much to see in StarClan!",
             "[You follow your StarClan guide toward where lots of cats are waiting to see you.]"
-
-
         ]
 
         },
