@@ -45669,5 +45669,54 @@
             "[You agree with t_c. It would be fun to go to a place that you haven't been yet in your tour of StarClan."
         ]
 
+        },
+        "df_sapphirejas_mate_1": {
+        "y_c": {
+            "dead": [
+                "df"
+            ]
+        },
+        "t_c": {
+            "dead": [
+                "df"
+            ],
+            "relationship": [
+                "from_mate"
+            ],
+            "status": [
+                "not_kitten"
+            ]
+        },
+        "intro": [
+            "[You stare into the distance of the murky forest that StarClan sent you, tears streaming down your eyes.]",
+            "[What did you do to deserve ending up here?!]",
+            "It's ok my love, we are both in this together.",
+            "[You purr, comforted by your mate's presence. Despite everything, you are still lucky to be with {PRONOUN/t_c/object} after death.]"
+        ]
+        },
+        "df_sapphirejas_mate_2": {
+        "y_c": {
+            "dead": [
+                "df"
+            ]
+        },
+        "t_c": {
+            "dead": [
+                "df"
+            ],
+            "relationship": [
+                "from_mate"
+            ],
+            "status": [
+                "not_kitten"
+            ]
+        },
+        "intro": [
+            "Hello y_c. I'm bored to death in this dreadful place! I could use time with you, my love.",
+            "[You chuckle amusedly to your mate, sometimes t_c make you laugh, even when {PRONOUN/t_c/subject} didn't really intend it.]",
+            "[You told t_c that both {PRONOUN/t_c/subject} and yourself are dead, and then reply that you can spend forever with {PRONOUN/t_c/object}.]",
+            "[t_c laugh back darkly, realizing what {PRONOUN/t_c/subject} has said, and smiles at you and. You and your mate enterwine your tails around each other.]",
+            "[Not even the Dark Forest can dampen the couple's ability to love.]"
+        ]
         }
 }
